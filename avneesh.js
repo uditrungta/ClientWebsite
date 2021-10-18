@@ -1,6 +1,8 @@
 student = {
+
     firstName: 'Aditya',
     lastName: 'Singh',
+
     studentAge: 20,
     enrollmentNo: 'A2305218457',
     studentInfo: function(){
