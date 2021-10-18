@@ -1,0 +1,14 @@
+body{
+    background-color: #457b9d;
+}
+/*Form container*/
+.container{
+    background-color: #1d3557;
+    padding: 40px;
+    margin: 100px;
+    color: white;
+    width: auto;
+    align-self: center;
+    border-radius: 20px;
+    align-content: center;
+}
