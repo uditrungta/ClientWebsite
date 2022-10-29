@@ -1,6 +1,7 @@
 student = {
 
     firstName: 'Udit',
+    MiddleName: 'Kumar',
     lastName: 'Singh',
 
     studentAge: 20,
